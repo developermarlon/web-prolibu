@@ -1,0 +1,15 @@
+.v-application {
+  background-color: var(--v-background-base) !important;
+}
+
+body::-webkit-scrollbar {
+  width: 0px !important;
+}
+
+body::-webkit-scrollbar-thumb {
+  width: 0px !important;
+}
+
+body {
+  scrollbar-width: none;
+}

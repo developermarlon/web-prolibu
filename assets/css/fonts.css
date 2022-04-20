@@ -1,0 +1,35 @@
+.font-family-raleway-extralight {
+  font-family: 'Raleway';
+  font-weight: 100 !important;
+}
+.font-family-raleway-light {
+  font-family: 'Raleway';
+  font-weight: 200 !important;
+}
+.font-family-raleway-regular {
+  font-family: 'Raleway';
+  font-weight: 300 !important;
+}
+.font-family-raleway-medium {
+  font-family: 'Raleway';
+  font-weight: 400 !important;
+}
+.font-family-raleway-semibold {
+  font-family: 'Raleway';
+  font-weight: 500 !important;
+}
+.font-family-raleway-bold {
+  font-family: 'Raleway';
+  font-weight: 700 !important;
+}
+.font-family-raleway-extrabold {
+  font-family: 'Raleway';
+  font-weight: 800 !important;
+}
+.font-family-raleway-black {
+  font-family: 'Raleway';
+  font-weight: 900 !important;
+}
+.font-family-lobster {
+  font-family: 'Lobster' !important;
+}
